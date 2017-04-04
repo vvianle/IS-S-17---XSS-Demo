@@ -1,0 +1,8 @@
+POST /create/ HTTP/1.1
+Accept: */*
+Cookie: username=le27l; csrftoken=vMkx3nC2tfsHRgaXfZuVSO87KBQltnf3
+X-CSRFToken: vMkx3nC2tfsHRgaXfZuVSO87KBQltnf3
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 104
+
+csrfmiddlewaretoken=vMkx3nC2tfsHRgaXfZuVSO87KBQltnf3&title=test2&content=Last test&publish=2017-01-01
