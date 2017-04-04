@@ -37,3 +37,10 @@ To make a request from the command line, create a file or edit post.txt then:
 To exist virtualenv:
 
 	deactivate
+
+ 
+*** 
+**Selected reference**:
+
+Coding For Entrepreneurs, _Advancing the Blog_ https://www.codingforentrepreneurs.com/projects/advancing-the-blog/,
+April 2017
