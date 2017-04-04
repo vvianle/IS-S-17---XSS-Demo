@@ -1,6 +1,8 @@
 # Independence Study S'17 - XSS in Django Framework
 ##### Vivian Le '19 - Mount Holyoke College
 ##### Faculty Advisor: Professor Peter Klemperer
+The project recreates XSS vulnerabilities in Django framework and investigates how its protection system works.
+
 ---
 Demo installing guide:
 
